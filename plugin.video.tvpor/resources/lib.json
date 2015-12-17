@@ -40,7 +40,7 @@
         "url": "http://213.13.26.11:1935/live/sic/playlist.m3u8",
         "name": "SIC Oficial",
         "resolve": false
-      },                                                                                 A playlist 1 nao fonciona
+      },                                                                                 A alternativa#1 nao fonciona
       {
         "url": "http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8",
         "name": "Alternativa",
